@@ -21,7 +21,7 @@
 #echo 'src-git routing https://github.com/openwrt/routing.git;openwrt-23.05' >>feeds.conf.default
 #echo 'src-git telephony https://github.com/openwrt/telephony.git;openwrt-23.05' >>feeds.conf.default
 
-echo 'src-git nas https://github.com/linkease/nas-packages.git;master' >>feeds.conf.default
-echo 'src-git nas_luci https://github.com/linkease/nas-packages-luci.git;main' >>feeds.conf.default
+#echo 'src-git nas https://github.com/linkease/nas-packages.git;master' >>feeds.conf.default
+#echo 'src-git nas_luci https://github.com/linkease/nas-packages-luci.git;main' >>feeds.conf.default
 
-echo 'src-git istore https://github.com/linkease/istore;main' >>feeds.conf.default
+#echo 'src-git istore https://github.com/linkease/istore;main' >>feeds.conf.default
