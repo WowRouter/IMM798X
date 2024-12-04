@@ -11,8 +11,7 @@
 #
 
 name: RedMi Ax6000
-run:
-      cp -f files/Makefile.txt feeds/packages/libxcrypt/Makefile
+
 on:
   repository_dispatch:
   workflow_dispatch:
